@@ -1,0 +1,19 @@
+ tr.waitingrow td{
+ 	background: #def237 !important;
+ 
+ }
+ 
+  tr.fullrow td{
+ 	background: #23ad29 !important;
+ }
+ 
+  tr.fullrow td p,  tr.fullrow td input{
+ 	color: #fff !important;
+ }
+ 
+ table#itemlist input[type='text']{
+	border: none;
+
+	background: none;
+}
+

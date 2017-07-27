@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>andioorderchecking</name>
+	<displayName><![CDATA[Andi&oacute; kieg&eacute;sz&iacute;t&eacute;s: Rendel&eacute;sek ellenőrz&eacute;se]]></displayName>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[]]></description>
+	<author><![CDATA[BT]]></author>
+	<tab><![CDATA[]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
